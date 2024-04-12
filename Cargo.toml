@@ -1,0 +1,14 @@
+[package]
+name = "serde_json_pretty"
+version = "0.1.0"
+edition = "2021"
+
+authors = ["Kyuuhachi <caagr98@gmail.com>"]
+description = "A prettier pretty-printer for serde_json"
+repository = "https://github.com/Kyuuhachi/serde_json_pretty"
+license = "MIT OR Apache-2.0"
+keywords = ["json", "serde", "serialization"]
+
+[dependencies]
+serde = "1.0"
+serde_json = "1.0"
